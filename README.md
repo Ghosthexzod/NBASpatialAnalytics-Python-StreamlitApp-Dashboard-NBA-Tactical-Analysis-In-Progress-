@@ -38,6 +38,7 @@ The project was inspired by modern NBA tracking systems such as:
 
 
 1. NBA Tracking Animation Analysis
+   ![NBA Animation](NBASpatialAnalysis.mp4)
 
 
 The animation system recreates live-style NBA movement tracking.
@@ -79,6 +80,7 @@ The white trails behind players help visualise:
 
 
 2. LeBron James Heatmap Analysis
+![Heatmap](Lheatmap.png)
 
 The player heatmap visualises where LeBron James spent most of his time on the court.
 
@@ -104,6 +106,7 @@ The darker red areas indicate zones with higher positional frequency.
 
 
 3. Sprint Map Analysis
+   ![Sprint Map](sprintL.png)
 
 The sprint map visualises explosive player movement across the court.
 
@@ -133,6 +136,7 @@ The sprint map helps identify:
 
 
 4. Shot Zone Distribution Analysis
+   ![Shot Distribution](shotdist.png)
 
 
 Shot zone analysis grouped shots into:
@@ -157,6 +161,10 @@ The lower paint frequency suggests:
 
 
 5. Possession Phase Analysis
+   
+![Team Court Phase Analysis](TeamCourtPhase.png)
+![Average Player Speed by Possession](avgplayerspeedbyPoss.png)
+![Ball Handler Possession Share](ballhandlerPossshare.png)
 
 The project analysed multiple tactical possession phases:
 
@@ -187,6 +195,7 @@ Half-court setup:
 
 
 6. Convex Hull Team Spacing Analysis
+   ![Convex Hull](Hullspacing.png)
 
 One of the most advanced parts of the project was Convex Hull analysis.
 
@@ -223,6 +232,7 @@ This type of analysis is commonly used in:
 - team shape modelling
 
 7. Streamlit Interactive Dashboard
+   
 
 The Streamlit dashboard transformed the project into an interactive analytics platform.
 
